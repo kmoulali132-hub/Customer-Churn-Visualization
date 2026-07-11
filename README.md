@@ -90,18 +90,18 @@ Customer_Churn_Visual_Analysis/
 
 ---
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 ### Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/kmoulali132-hub/Customer-Churn-Visualization.git
 ```
 
 ### Navigate to the Project Folder
 
 ```bash
-cd Customer_Churn_Visual_Analysis
+cd Customer-Churn-Visualization
 ```
 
 ### Install Required Libraries
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 
 ### Run the Notebook
 
-Open **Customer_Churn_Visual_Analysis.ipynb** in Jupyter Notebook and execute all cells.
+Open **Customer_Churn_Visual_Analysis.ipynb** in Jupyter Notebook and run all cells.
 
 ---
 
